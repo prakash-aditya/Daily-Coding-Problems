@@ -6,9 +6,8 @@ find the second largest node in the tree.
 */
 
 //only the function is defined.
-void kthLargest(Node *root, int k)
+void kthLargest(Node *root)
 {
-    //Your code here
     Node *res = NULL;
     
 
